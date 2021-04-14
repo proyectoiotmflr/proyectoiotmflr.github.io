@@ -38,6 +38,9 @@ mi-footer {
   display: block;
   margin: 1rem 0;
   font-size: small;
+  color: black;
+  background-color:#c5e1a5;
+  text-align: center;
 }
 
 
