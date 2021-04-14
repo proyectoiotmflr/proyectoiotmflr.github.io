@@ -23,6 +23,7 @@ header {
   color:  black;
   background-color:#64f0e9;
   top: 0;
+	z-index: 1;
 	height: 80px;
 	width: 100%; 
 	left: 0; 
