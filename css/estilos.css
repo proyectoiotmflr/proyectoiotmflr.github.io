@@ -32,9 +32,3 @@ header {
 	position: fixed;
 }
 
-.herra {
-  display: contents;
-  padding: 1rem;
-  position: inherit;
-  gap: 1.5rem;
-}
