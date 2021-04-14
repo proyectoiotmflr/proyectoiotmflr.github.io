@@ -8,6 +8,23 @@ body {
   font-size: 1em;
   line-height: 1.5em;
 }
+header {
+  color: black;
+  background-color:
+    #81d4fa;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.herramientas {
+  display: flex;
+  padding: 1rem;
+  position: relative;
+  gap: 1.5rem;
+}
+
 
 .contenido {
   display: inline-block;
