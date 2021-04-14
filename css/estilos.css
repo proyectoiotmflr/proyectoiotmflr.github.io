@@ -12,9 +12,6 @@ body {
 .contenido {
   display: inline-block;
   text-align: start;
-  padding: 0 1rem;
-  margin-bottom: 4.75rem;
-  top:30px;
 }
 
 meter,
@@ -31,18 +28,5 @@ mi-footer {
 header {
   color:  black;
   background-color:#64f0e9;
-  top: 0;
-	z-index: 1;
-	height: 20px;
-	width: 100%; 
-	left: 0; 
-	top: 0; 
-	position: fixed;
-}
-.herra {
-  display: contents;
-  padding: 1rem;
-  position: inherit;
-  gap: 1.5rem;
 }
 
