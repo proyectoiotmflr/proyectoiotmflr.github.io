@@ -11,7 +11,10 @@ body {
 header {
   color: black;
   background-color:#c5e1a5;
-  text-align: center;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 1;
 }
 
 .herramientas {
