@@ -22,7 +22,12 @@ mi-footer {
 header {
   color:  black;
   background-color:#64f0e9;
- 
+  top: 0;
+	height: 80px;
+	width: 100%; 
+	left: 0; 
+	top: 0; 
+	position: fixed;
 }
 .herra {
   display: contents;
